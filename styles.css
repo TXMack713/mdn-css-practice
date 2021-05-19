@@ -21,6 +21,11 @@ h2 {
   /* border-top: 10px groove #375e97; */
 }
 
+h3,
+footer h2 {
+  color: #375e97;
+}
+
 .job-title {
   /* color: #fb6542; */
   color: hotpink;

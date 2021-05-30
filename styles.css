@@ -1,57 +1,43 @@
 body {
-  /*background-color: #fff;*/
-  background-color: #d6d9dc;
-  color: #333;
-  font-family: Arial, Helvetica, sans-serif;
-  padding: 1em;
-  margin: 0;
+    /*background-color: #fff;*/
+    background-color: #D6D9DC;
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1em;
+    margin: 0;
 }
 
 h1 {
-  color: #375e97;
-  /* color: hotpink; */
-  font-size: 2em;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  border-bottom: 10px ridge #375e97;
+    color: #375e97;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 3px solid #375e97;
 }
 
 h2 {
-  font-size: 1.5em;
-  font-style: italic;
-  /* border-top: 10px groove #375e97; */
+    font-size: 1.5em;
+     border-top: 3px solid #375e97;
 }
 
-h3,
-footer h2 {
-  color: #375e97;
-}
 
 .job-title {
-  /* color: #fb6542; */
-  color: hotpink;
-  /*font-weight: bold;*/
-  font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fb6542;
+    /*font-weight: bold;*/
+    font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 footer {
-  /* margin,padding,border: 0; */
-  padding-left: 10px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  border: 10px groove #375e97;
-  /*border-top: 3px solid #375e97;*/
-  /*border-bottom: 3px solid #375e97;*/
+    margin, padding, border: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /*border-top: 3px solid #375e97;*/
+    /*border-bottom: 3px solid #375e97;*/
 }
 
 a:link,
 a:visited {
-  color: #fb6542;
+    color: #fb6542;
 }
 
 a:hover {
-  text-decoration: none;
-  color: green;
-}
-
-ul {
-  /* background-color: #eeeeee; */
+    text-decoration: none;
 }
